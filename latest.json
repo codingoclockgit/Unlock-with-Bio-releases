@@ -1,1 +1,0 @@
-{"version": "0.1.0", "download_url": "https://github.com/codingoclockgit/Unlock-with-Bio-releases", "notes": "Initial release: QR/manual pairing, per-account AES-256-GCM vaults, one-time challenge unlock test, Wake-on-LAN, CLI + GUI, auto-update check.", "published": "2026-10-28"}
